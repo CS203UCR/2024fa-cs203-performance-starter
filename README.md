@@ -67,13 +67,13 @@ This will set you up with a copy of the starter repository.
 **Note**: Be sure to use the **`ssh`** method to checkout your repo rather than `http`.  Authentication over ssh is much simpler and it's what our tools assume.  If you try to use HTTP, you'll get something like:
 
 ```
-[htseng@datahub]$ git clone https://github.com/cs203ucsd/2024fa-cs203-performance-hungweitseng.git
+[htseng@datahub]$ git clone https://github.com/cs203ucr/2024fa-cs203-performance-hungweitseng.git
 Cloning into '2024su-cs203-performance-hungweitseng'...
 Username for 'https://github.com': hungweitseng
 Password for 'https://hungweitseng@github.com': 
 remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/cs203ucsd/2024fa-cs203-performance-hungweitseng.git/'
+fatal: Authentication failed for 'https://github.com/cs203ucr/2024fa-cs203-performance-hungweitseng.git/'
 ```
 
 
